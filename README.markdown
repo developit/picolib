@@ -2,6 +2,11 @@ What is This Crap?
 ==================
 It's a JavaScript library that helps you do things 4% faster on average*
 
+Word of Warning
+===============
+The code sort-of reminds me of a bookmarklet. Take from that what you will.
+Feel free to do whatever you please with this, I don't really use it anymore.
+
 Show me Some Functions
 ======================
 
